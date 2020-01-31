@@ -1,0 +1,9 @@
+E:\c#\calculatorREAL\calculatorREAL\bin\Debug\calculatorREAL.exe.config
+E:\c#\calculatorREAL\calculatorREAL\bin\Debug\calculatorREAL.exe
+E:\c#\calculatorREAL\calculatorREAL\bin\Debug\calculatorREAL.pdb
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.csprojAssemblyReference.cache
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.Form1.resources
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.Properties.Resources.resources
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.csproj.GenerateResource.cache
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.exe
+E:\c#\calculatorREAL\calculatorREAL\obj\Debug\calculatorREAL.pdb

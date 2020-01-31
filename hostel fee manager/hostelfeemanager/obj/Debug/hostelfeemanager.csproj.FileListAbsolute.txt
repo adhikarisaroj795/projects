@@ -1,0 +1,11 @@
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\bin\Debug\hostelfeemanager.exe.config
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\bin\Debug\hostelfeemanager.exe
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\bin\Debug\hostelfeemanager.pdb
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.csprojAssemblyReference.cache
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.Form1.resources
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.Properties.Resources.resources
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.csproj.GenerateResource.cache
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.exe
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.pdb
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.sf.resources
+C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.hhh.resources
