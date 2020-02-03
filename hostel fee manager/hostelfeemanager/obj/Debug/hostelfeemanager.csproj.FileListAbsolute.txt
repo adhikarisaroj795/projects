@@ -9,3 +9,14 @@ C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfe
 C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.pdb
 C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.sf.resources
 C:\Users\adhik\source\repos\hostelfeemanager\hostelfeemanager\obj\Debug\hostelfeemanager.hhh.resources
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\bin\Debug\hostelfeemanager.exe.config
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\bin\Debug\hostelfeemanager.exe
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\bin\Debug\hostelfeemanager.pdb
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.csprojAssemblyReference.cache
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.Form1.resources
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.hhh.resources
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.Properties.Resources.resources
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.sf.resources
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.csproj.GenerateResource.cache
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.exe
+E:\completed projects\projects\hostel fee manager\hostelfeemanager\obj\Debug\hostelfeemanager.pdb

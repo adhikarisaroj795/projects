@@ -29,5 +29,10 @@ namespace hostelfeemanager
             con.Close();
             dataGridView1.DataSource = dt;
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
